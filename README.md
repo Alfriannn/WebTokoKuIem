@@ -14,7 +14,7 @@ A modern e-commerce web app built with [Next.js](https://nextjs.org), Prisma, an
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/username/toko-ku.git
+   git clone https://github.com/Alfriannn/WebTokoKuIem.git
    cd toko-ku
    ```
 
